@@ -3,20 +3,21 @@ package com.company;
 import java.util.Stack;
 
 public class Parser {
-    private Stack<Character> stackHaakje;
+    private Stack<Character> StackBracket;
 
     public Parser ()
     {
-        stackHaakje = new Stack();
+        StackBracket = new Stack();
+
     }
 
-    public boolean Parse(String testString)
+    public boolean parse(String testString)
     {
 
         for(char c : testString.toCharArray())
         {
             if(c=='(' || c=='[' || c=='{')
-                stackHaakje.push(c);
+                StackBracket.push(c);
 
             else if (c==')' || c==']' || c=='}') {
 
@@ -24,31 +25,29 @@ public class Parser {
                 {
                     case ')':
 
-                        if( stackHaakje.peek()==c)
-                            stackHaakje.pop();
+                        if( StackBracket.peek()=='(')
+                            StackBracket.pop();
                         break;
 
                     case ']':
-                        if ( stackHaakje.peek()==c)
-                            stackHaakje.pop();
+                        if ( StackBracket.peek()=='[')
+                            StackBracket.pop();
                         break;
 
                     case '}':
-                        if (stackHaakje.peek()==c)
-                            stackHaakje.peek();
+                        if (StackBracket.peek()=='{')
+                            StackBracket.pop();
                         break;
 
                     default:
                         return false;
 
-
                 }
-
 
             }
 
         }
-        return stackHaakje.empty();
+        return StackBracket.empty();
     }
 
 }

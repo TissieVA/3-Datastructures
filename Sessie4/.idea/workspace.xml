@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca27d76c-5779-43db-b57e-b8fef0282bbc" name="Default Changelist" comment="" />
+    <list default="true" id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +15,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Sb8c5933cA3IxoKUsM91PtHyNo" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TEnEExcyU8aW8uNMlMAxSSP0U5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 2/Sessie2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 3/Sessie3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,7 +40,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Sessie2" />
+      <module name="Sessie4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -45,31 +48,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca27d76c-5779-43db-b57e-b8fef0282bbc" name="Default Changelist" comment="" />
-      <created>1571821010201</created>
+      <changelist id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="" />
+      <created>1573034008106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571821010201</updated>
-      <workItem from="1571821019951" duration="6390000" />
-      <workItem from="1572442509722" duration="258000" />
-      <workItem from="1572442794571" duration="8392000" />
-      <workItem from="1572458510804" duration="1943000" />
-      <workItem from="1572472782021" duration="57000" />
+      <updated>1573034008106</updated>
+      <workItem from="1573034012637" duration="5991000" />
+      <workItem from="1573043111670" duration="751000" />
+      <workItem from="1573053104491" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
