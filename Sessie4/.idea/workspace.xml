@@ -23,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 3/Sessie3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,6 +48,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +67,8 @@
       <workItem from="1573034012637" duration="5991000" />
       <workItem from="1573043111670" duration="751000" />
       <workItem from="1573053104491" duration="20000" />
+      <workItem from="1573067902501" duration="625000" />
+      <workItem from="1573638583621" duration="11654000" />
     </task>
     <servers />
   </component>

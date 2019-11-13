@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b1128ba-fa44-403c-8df8-d8ae42a4cba1" name="Default Changelist" comment="" />
+    <list default="true" id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,20 +16,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="WARN_ABOUT_CRLF" value="false" />
-    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Sv2ESw9DaBooaZPbB2vZRl8386" />
+  <component name="ProjectId" id="1TEnEExcyU8aW8uNMlMAxSSP0U5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sessie4" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +40,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Sessie3" />
+      <module name="Sessie4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -65,20 +59,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b1128ba-fa44-403c-8df8-d8ae42a4cba1" name="Default Changelist" comment="" />
-      <created>1572429636485</created>
+      <changelist id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="" />
+      <created>1573034008106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572429636485</updated>
-      <workItem from="1572429648588" duration="6061000" />
-      <workItem from="1572440270847" duration="1337000" />
-      <workItem from="1572985914907" duration="469000" />
-      <workItem from="1572986987756" duration="3328000" />
-      <workItem from="1573033908403" duration="99000" />
-      <workItem from="1573035083426" duration="618000" />
-      <workItem from="1573043272142" duration="4184000" />
-      <workItem from="1573053125212" duration="164000" />
-      <workItem from="1573058530647" duration="648000" />
+      <updated>1573034008106</updated>
+      <workItem from="1573034012637" duration="5991000" />
+      <workItem from="1573043111670" duration="751000" />
+      <workItem from="1573053104491" duration="20000" />
+      <workItem from="1573067902501" duration="625000" />
+      <workItem from="1573638583621" duration="11294000" />
     </task>
     <servers />
   </component>
