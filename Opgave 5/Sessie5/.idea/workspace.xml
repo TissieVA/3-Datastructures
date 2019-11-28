@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/TestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opgave 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opgave 5/src/com/company/BSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 5/src/com/company/BSTNode.java" afterDir="false" />
+    <list default="true" id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/IQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/TestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BSTNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,14 +28,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1TEnEExcyU8aW8uNMlMAxSSP0U5" />
+  <component name="ProjectId" id="1TsKk2oqFXaqr5nT3FVhrXVJ7H5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Opgave 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 1/Sessie1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +52,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Sessie4" />
+      <module name="Opgave 5" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -65,17 +71,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="" />
-      <created>1573034008106</created>
+      <changelist id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="" />
+      <created>1574243502869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573034008106</updated>
-      <workItem from="1573034012637" duration="5991000" />
-      <workItem from="1573043111670" duration="751000" />
-      <workItem from="1573053104491" duration="20000" />
-      <workItem from="1573067902501" duration="625000" />
-      <workItem from="1573638583621" duration="11294000" />
-      <workItem from="1574868095579" duration="116000" />
+      <updated>1574243502869</updated>
+      <workItem from="1574243519450" duration="6677000" />
+      <workItem from="1574677446842" duration="204000" />
+      <workItem from="1574677708238" duration="80000" />
+      <workItem from="1574840138101" duration="591000" />
+      <workItem from="1574845342284" duration="858000" />
+      <workItem from="1574868213409" duration="6797000" />
     </task>
     <servers />
   </component>

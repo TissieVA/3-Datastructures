@@ -73,12 +73,47 @@ class BSTNode<Key, E> implements BinNode<E> {
 
   }
 
-  public void insert(Key key, E elem)
-  {
-    if( (int)this.key > (int)key)
-    ;
 
+  public void insert(Key key, E value)
+  {
+    if(key instanceof Integer)
+    {
+      if((int)key < (int)this.key)
+      {
+        if(this.left == null)
+          this.setLeft(new BSTNode<>(key,value));
+        else
+        {
+          this.left.insert(key,value);
+        }
+      }
+      else
+      {
+        if(this.right == null)
+          this.setRight(new BSTNode<>(key,value));
+        else
+          this.right.insert(key,value);
+      }
+    }
+  }
+
+  public int hoogte()
+  {
+    int  hoogteLinks= 0;
+    int  hoogteRechts = 0;
+
+    if(this.left !=null)
+      hoogteLinks =this.left.hoogte();
+
+    if(this.right != null)
+      hoogteRechts = this.right.hoogte();
+
+    if(hoogteRechts > hoogteLinks)
+      return hoogteRechts + 1;
+    else
+      return hoogteLinks + 1;
   }
 
  }
+
 
