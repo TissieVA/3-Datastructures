@@ -9,7 +9,7 @@ public class TestQueue {
     public void test_enqueue ()
     {
         Queue<Integer> testQ= new Queue<>(10);
-        assertEquals(testQ.length(),10);
+        assertEquals(testQ.length(),0);
 
         testQ.enqueue(6);
         assertEquals(testQ.dequeue(),6);
@@ -22,6 +22,8 @@ public class TestQueue {
         testQ.enqueue(0);
         testQ.enqueue(1);
         testQ.enqueue(2);
+
+        assertEquals(testQ.length(),3);
 
         testQ.dequeue();
         assertEquals(testQ.dequeue(),1);

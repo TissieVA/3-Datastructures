@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/TestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 4/Opgave04.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Opgave04.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opgave 5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Opgave 5/META-INF/Opgave 5.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BSTNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BinNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/IQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/TestQueue.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 1/Sessie1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 6/Queue" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,6 +83,7 @@
       <workItem from="1574840138101" duration="591000" />
       <workItem from="1574845342284" duration="858000" />
       <workItem from="1574868213409" duration="7272000" />
+      <workItem from="1575403705121" duration="358000" />
     </task>
     <servers />
   </component>
