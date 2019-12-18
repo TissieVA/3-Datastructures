@@ -12,7 +12,9 @@ public class TestQueue {
         assertEquals(testQ.length(),0);
 
         testQ.enqueue(6);
-        assertEquals(testQ.dequeue(),6);
+        assertEquals(testQ.length(),1);
+        testQ.enqueue(12);
+        assertEquals(testQ.length(),2);
     }
 
     @Test

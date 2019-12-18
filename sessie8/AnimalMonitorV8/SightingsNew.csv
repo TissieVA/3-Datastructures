@@ -1,0 +1,19 @@
+#spotter;animal;count;area;period
+Jean;Mountain Gorilla;3;Mangroves National Park;0
+Jean;Buffalo;10;Mangroves National Park;0
+Jean;Elephant;0;Mangroves National Park;0
+Karel;Mountain Gorilla;1;Odzala National Park;0
+Piet;Mountain Gorilla;3;Garamba National Park;0
+Francis;Mountain Gorilla;0;Odzala National Park;0
+Francis;Buffalo;2;Mangroves National Park;0
+Francis;Topi;25;Mangroves National Park;0
+Jean;Mountain Gorilla;4;Mangroves National Park;1
+Jean;Buffalo;16;Mangroves National Park;1
+Karel;Topi;20;Mangroves National Park;1
+Francis;Buffalo;0;Odzala National Park;1
+Francis;Topi;30;Odzala National Park;1
+Jan;Mountain Gorilla;1;Mangroves National Park;2
+Karel;Mountain Gorilla;2;Odzala National Park;2
+Piet;Mountain Gorilla;0;Garamba National Park;2
+Francis;Topi;30;Odzala National Park;2
+Francis;Elephant;24;Odzala National Park;2

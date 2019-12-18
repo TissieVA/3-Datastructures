@@ -4,7 +4,7 @@ import java.lang.*;
 public class Queue<E> implements IQueue
 {
 
-    private int front, rear, size, capacity;
+    private int front, rear, size=0, capacity;
     private E[] array;
 
     public Queue(int capacity) {
@@ -29,7 +29,7 @@ public class Queue<E> implements IQueue
     public void enqueue(Object it)
     {
         if (isFull(this))
-            System.out.println("Queue is full, item has been put in front");;
+            System.out.println("Queue is full, item has been put in front");
 
         this.rear = (this.rear + 1)%this.capacity;
         this.array[this.rear] = (E) it;

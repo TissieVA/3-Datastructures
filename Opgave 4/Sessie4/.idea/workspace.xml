@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dae4c67-42e0-4e0d-85b1-d13c23105129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Queue/src/com/company/TestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opgave 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opgave 5/src/com/company/BSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 5/src/com/company/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sessie7/src/com/company/Inschrijvingen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sessie7/src/com/company/Periode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opgave 6/Queue/src/com/company/TestQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Opgave 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,6 +76,9 @@
       <workItem from="1573067902501" duration="625000" />
       <workItem from="1573638583621" duration="11294000" />
       <workItem from="1574868095579" duration="116000" />
+      <workItem from="1576060734597" duration="1867000" />
+      <workItem from="1576079073101" duration="16000" />
+      <workItem from="1576677010327" duration="2343000" />
     </task>
     <servers />
   </component>
