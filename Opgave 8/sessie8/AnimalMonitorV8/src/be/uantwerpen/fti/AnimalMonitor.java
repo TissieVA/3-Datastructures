@@ -2,6 +2,7 @@ package be.uantwerpen.fti;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
@@ -66,7 +67,7 @@ public class AnimalMonitor
                 .forEach(sighting -> System.out.println(sighting.getDetails()));
     }
 
-    public void printallAnimalsBy(String spotter, String animal)
+    public void printAllAnimalsBy(String spotter, String animal)
     {
         sightings.stream()
                 .filter(sighting -> spotter.equals(sighting.getSpotter()))
@@ -112,7 +113,25 @@ public class AnimalMonitor
                 .filter(sighting -> spotter.equals(sighting.getSpotter()))
                 .collect(Collectors.toCollection(ArrayList::new));
 
-
-
     }
+
+
+
+    public void makeMapOf (String spotter)
+    {
+        List<Sighting> spotting = listSightingsBy(spotter);
+        Map<String, Integer> mapInfo =
+                (Map<String, Integer>) spotting.stream()
+                        .collect(Collectors.groupingBy
+                                (Sighting::getAnimal,Collectors.summingInt
+                                        (Sighting::getCount)));
+
+        System.out.println(spotter+":");
+        for(Map.Entry<String, Integer> entry : mapInfo.entrySet())
+        {
+            System.out.println(entry.getKey()+"   "+entry.getValue());
+        }
+    }
+
+
 }

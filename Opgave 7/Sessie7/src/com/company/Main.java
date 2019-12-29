@@ -11,14 +11,13 @@ public class Main {
     {
         try
         {
-            Inschrijvingen per = new Inschrijvingen();
-            per.read("D:\\Documenten\\UAsem3\\Java\\3-Datastructures\\Sessie7\\gegevens.txt");
-            per.print();
+            Inschrijvingen insch = new Inschrijvingen();
+            insch.read("D:\\Documenten\\UAsem3\\Java\\3-Datastructures\\Sessie7\\gegevens.txt");
+            insch.print();
 
         } catch (IOException e)
         {
             System.out.println(e.getMessage());
         }
     }
-
 }

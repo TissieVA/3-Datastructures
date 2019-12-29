@@ -24,7 +24,7 @@ public class Main {
         aM.printSightingsBy("Francis");
 
         System.out.println("\n*** all buffalos by Jean");
-        aM.printallAnimalsBy("Jean", "Buffalo");
+        aM.printAllAnimalsBy("Jean", "Buffalo");
 
         System.out.println("\n*** all observations (short) by Francis");
         aM.printShortSightingsBy("Francis");
@@ -35,13 +35,16 @@ public class Main {
         System.out.println("\n*** amount of Topi's spotted by Francis");
         System.out.println(aM.getCountOfAnimalsSeenBy("Topi","Francis"));
 
-        System.out.println("\n*** amount of Topi's spotted by Francis");
+        System.out.println("\n*** animals spotted by Jean");
         List<Sighting> list = aM.listSightingsBy("Jean");
 
         for (Sighting sight: list)
         {
             System.out.println(sight.getAnimal());
         }
+
+        System.out.println("\n*** map of animals spotted by Jean");
+        aM.makeMapOf("Jean");
 
     }
 }
