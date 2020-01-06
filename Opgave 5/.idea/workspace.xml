@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/Queue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/IQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/com/company/TestQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 6/Queue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sessie5" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +41,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Opgave 5" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -61,11 +51,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,6 +69,7 @@
       <workItem from="1574845342284" duration="858000" />
       <workItem from="1574868213409" duration="7272000" />
       <workItem from="1575403705121" duration="358000" />
+      <workItem from="1578334222230" duration="789000" />
     </task>
     <servers />
   </component>

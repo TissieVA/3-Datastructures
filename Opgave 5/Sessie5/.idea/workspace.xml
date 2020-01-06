@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/com/company/TestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 1/Sessie1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opgave 4/Sessie4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BSTNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="579c0d18-0bbd-43e3-b860-a1cccc063e4e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +16,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1TsKk2oqFXaqr5nT3FVhrXVJ7H5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opgave 1/Sessie1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,6 +70,7 @@
       <workItem from="1574840138101" duration="591000" />
       <workItem from="1574845342284" duration="858000" />
       <workItem from="1574868213409" duration="6797000" />
+      <workItem from="1578335193382" duration="138000" />
     </task>
     <servers />
   </component>
